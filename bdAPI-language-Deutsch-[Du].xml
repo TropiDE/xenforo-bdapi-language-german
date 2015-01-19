@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language title="Deutsch [Du]" date_format="j F Y" time_format="H:i" decimal_point="," thousands_separator="." language_code="de-DE" text_direction="LTR" addon_id="bdApi">
+  <phrase title="admin_navigation_bdApi" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[[bd] API]]></phrase>
+  <phrase title="admin_navigation_bdApi_auth_codes" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Authentication-Codes]]></phrase>
+  <phrase title="admin_navigation_bdApi_clients" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Clients/Apps]]></phrase>
+  <phrase title="admin_navigation_bdApi_logs" addon_id="bdApi" version_id="23" version_string="0.9.8a"><![CDATA[Logfiles]]></phrase>
+  <phrase title="admin_navigation_bdApi_refresh_tokens" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Refresh-Token]]></phrase>
+  <phrase title="admin_navigation_bdApi_subscriptions" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[PubSubHubbub]]></phrase>
+  <phrase title="admin_navigation_bdApi_tokens" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Zugriffs-Token]]></phrase>
+  <phrase title="admin_permission_bdApi" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[[bd] API: API verwalten]]></phrase>
+  <phrase title="bdapi_auth_code_confirm_deletion" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Löschen des Authentication-Codes bestätigen]]></phrase>
+  <phrase title="bdapi_auth_code_delete" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Authentication-Code löschen]]></phrase>
+  <phrase title="bdapi_auth_code_no_results" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Noch keine Authentication-Codes gefunden]]></phrase>
+  <phrase title="bdapi_auth_code_not_found" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Der angeforderte Authentication-Code konnte nicht gefunden werden]]></phrase>
+  <phrase title="bdapi_auth_code_please_confirm" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bitte bestätige, dass du den folgenden Authentication-Code löschen möchtest]]></phrase>
+  <phrase title="bdapi_auth_codes" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Authentication-Codes]]></phrase>
+  <phrase title="bdapi_authorize_access" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Zugriff erlauben]]></phrase>
+  <phrase title="bdapi_authorize_error_client_x_not_found" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client {client} konnte nicht gefunden werden.]]></phrase>
+  <phrase title="bdapi_authorize_error_invalid_or_expired_access_token" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Ungültiges oder abgelaufenes Access-Token.]]></phrase>
+  <phrase title="bdapi_authorize_error_scope_x_not_granted" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Zugriff auf den Bereich {scope} wurde nicht erlaubt.]]></phrase>
+  <phrase title="bdapi_client" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Client/App]]></phrase>
+  <phrase title="bdapi_client_add" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Neuen Client hinzufügen]]></phrase>
+  <phrase title="bdapi_client_confirm_deletion" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Löschen des Clients bestätigen]]></phrase>
+  <phrase title="bdapi_client_delete" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client löschen]]></phrase>
+  <phrase title="bdapi_client_edit" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client ändern]]></phrase>
+  <phrase title="bdapi_client_id_must_be_az09" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Keys müssen aus alphanumerischen Zeichen bestehen (auschließlich a-z, A-Z und 0-9).]]></phrase>
+  <phrase title="bdapi_client_ids_must_be_unique" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Keys müssen eindeutig sein - dieser Key ist bereits in Benutzung.]]></phrase>
+  <phrase title="bdapi_client_key" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Key]]></phrase>
+  <phrase title="bdapi_client_no_results" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Keine Clients gefunden.]]></phrase>
+  <phrase title="bdapi_client_not_found" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Der angeforderte Client konnte nicht gefunden werden.]]></phrase>
+  <phrase title="bdapi_client_option_auto_authorize_admincp" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA[Automatisch Zugriff auf Bereich "ADMINCP" erlauben]]></phrase>
+  <phrase title="bdapi_client_option_auto_authorize_conversate" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA[Automatisch Zugriff auf Bereich "CONVERSATE" erlauben]]></phrase>
+  <phrase title="bdapi_client_option_auto_authorize_post" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA[Automatisch Zugriff auf Bereich "POST" erlauben]]></phrase>
+  <phrase title="bdapi_client_option_auto_authorize_read" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA[Automatisch Zugriff auf Bereich "READ" erlauben]]></phrase>
+  <phrase title="bdapi_client_option_auto_authorize_usercp" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA[Automatisch Zugriff auf Bereich "USERCP" erlauben]]></phrase>
+  <phrase title="bdapi_client_options_explain" addon_id="bdApi" version_id="9" version_string="0.9-dev"><![CDATA["Automatisch Zugriff erlauben" ist gefährlich, da hiermit der Bestätigungs-Dialog umgangen wird. Bitte stelle sicher, dass API-Key und API-Secret entsprechend geschützt sind.<br />]]></phrase>
+  <phrase title="bdapi_client_please_confirm" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bitte bestätige, dass du den folgenden Client löschen möchtest]]></phrase>
+  <phrase title="bdapi_client_save" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client speichern]]></phrase>
+  <phrase title="bdapi_client_secret" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Secret]]></phrase>
+  <phrase title="bdapi_clients" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Clients]]></phrase>
+  <phrase title="bdapi_description" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Beschreibung]]></phrase>
+  <phrase title="bdapi_expire_date" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Gültig bis]]></phrase>
+  <phrase title="bdapi_home" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Zugriff]]></phrase>
+  <phrase title="bdapi_last_issue_date" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Zuletzt benutzt]]></phrase>
+  <phrase title="bdapi_log_no_client" addon_id="bdApi" version_id="23" version_string="0.9.8a"><![CDATA[Öffentlicher Request (ohne Client)]]></phrase>
+  <phrase title="bdapi_log_no_results" addon_id="bdApi" version_id="23" version_string="0.9.8a"><![CDATA[Keine Logs gefunden...]]></phrase>
+  <phrase title="bdapi_log_not_found" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Das angeforderte Log konnte nicht gefunden werden]]></phrase>
+  <phrase title="bdapi_login_to_authorize_x" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bitte logge dich ein, um {client} Zugriff zu erlauben.]]></phrase>
+  <phrase title="bdapi_login_to_authorize_x_google" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Klicke auf "{login_with_google}" um mit {client} fortzufahren.]]></phrase>
+  <phrase title="bdapi_logs" addon_id="bdApi" version_id="23" version_string="0.9.8a"><![CDATA[Log-Files]]></phrase>
+  <phrase title="bdapi_name" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client-Name]]></phrase>
+  <phrase title="bdapi_please_confirm_to_authorize_access" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bitte bestätige den Zugriff mit den unten stehenden Berechtigungen.]]></phrase>
+  <phrase title="bdapi_post_slash_users_requires_client_id" addon_id="bdApi" version_id="26" version_string="1.0.1"><![CDATA[POST /users benötigt `client_id`.
+]]></phrase>
+  <phrase title="bdapi_realm" addon_id="bdApi" global_cache="1" version_id="1" version_string="0.1"><![CDATA[{boardTitle} API]]></phrase>
+  <phrase title="bdapi_redirect_uri" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Weiterleitungs-URL]]></phrase>
+  <phrase title="bdapi_redirect_uri_must_be_valid" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Ungültige Weiterleitungs-URL.]]></phrase>
+  <phrase title="bdapi_refresh_token_confirm_deletion" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bestätigung des Löschens der Refresh-Token]]></phrase>
+  <phrase title="bdapi_refresh_token_delete" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Refresh-Token löschen]]></phrase>
+  <phrase title="bdapi_refresh_token_no_results" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Keine Refresh-Token gefunden...]]></phrase>
+  <phrase title="bdapi_refresh_token_not_found" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Das angeforderte Refresh-Token konnte nicht gefunden werden]]></phrase>
+  <phrase title="bdapi_refresh_token_please_confirm" addon_id="bdApi" version_id="4" version_string="0.9-dev"><![CDATA[Bitte bestätige, dass du das folgende Refresh-Token löschen möchtest]]></phrase>
+  <phrase title="bdapi_refresh_tokens" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Refresh-Token]]></phrase>
+  <phrase title="bdapi_request" addon_id="bdApi" version_id="23" version_string="0.9.8a"><![CDATA[Request]]></phrase>
+  <phrase title="bdapi_request_must_authorize_to_encrypt" addon_id="bdApi" version_id="25" version_string="1.0"><![CDATA[Request must be authorized to encrypt data.]]></phrase>
+  <phrase title="bdapi_requested_scopes" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Angeforderte Berechtigungen]]></phrase>
+  <phrase title="bdapi_requires_upload_x" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[Diese Anfrage erfordert das Upload-Feld `{field}`.]]></phrase>
+  <phrase title="bdapi_response" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Antwort]]></phrase>
+  <phrase title="bdapi_revoke" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Zugriffsrechte entziehen]]></phrase>
+  <phrase title="bdapi_scope" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Scope]]></phrase>
+  <phrase title="bdapi_scope_manage_account_settings" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Deine Benutzeraccount-Einstellungen ändern]]></phrase>
+  <phrase title="bdapi_scope_manage_system" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Systemeinstellungen ändern]]></phrase>
+  <phrase title="bdapi_scope_participate_in_conversations" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Deine Unterhaltungen lesen sowie auf Unterhaltungen antworten oder neue erstellen]]></phrase>
+  <phrase title="bdapi_scope_post" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Beiträge und Themen erstellen]]></phrase>
+  <phrase title="bdapi_scope_read" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Infos zu meinem Benutzeraccount, Beiträge und Themen lesen]]></phrase>
+  <phrase title="bdapi_slash_batch_only_accepts_post_requests" addon_id="bdApi" version_id="19" version_string="0.9.4"><![CDATA[/batch kann nur mit POST-Requests benutzt werden.]]></phrase>
+  <phrase title="bdapi_slash_batch_requires_json" addon_id="bdApi" version_id="19" version_string="0.9.4"><![CDATA[/batch erfordert valides JSON als Eingabe.]]></phrase>
+  <phrase title="bdapi_slash_conversation_messages_attachments_requires_ids" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[/conversation-messages/attachments erfordert `conversation_id` für eine neue Nachricht oder `message_id` für eine existierende Nachricht.]]></phrase>
+  <phrase title="bdapi_slash_conversation_messages_requires_conversation_id" addon_id="bdApi" version_id="38" version_string="1.0.13"><![CDATA[/conversation-messages erfordert `conversation_id`.]]></phrase>
+  <phrase title="bdapi_slash_oauth_token_only_accepts_post_requests" addon_id="bdApi" version_id="2" version_string="0.2"><![CDATA[/oauth/token kann nur mit POST-Requests benutzt werden.]]></phrase>
+  <phrase title="bdapi_slash_posts_attachments_requires_ids" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[/posts/attachments erfordert `thread_id` für einen neuen Beitrag oder `post_id` für einen existierenden Beitrag.]]></phrase>
+  <phrase title="bdapi_slash_posts_requires_thread_id" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[/posts erfordert `thread_id`.]]></phrase>
+  <phrase title="bdapi_slash_search_only_accepts_post_requests" addon_id="bdApi" version_id="16" version_string="0.9.3"><![CDATA[/search kann nur mit POST-Requests benutzt werden.]]></phrase>
+  <phrase title="bdapi_slash_search_requires_q" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[/search erfordert `q`.]]></phrase>
+  <phrase title="bdapi_slash_subscription_only_accepts_post_requests" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[/subscription kann nur mit POST-Requests benutzt werden.]]></phrase>
+  <phrase title="bdapi_slash_threads_attachments_requires_forum_id" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[/threads/attachments erfordert `forum_id`.]]></phrase>
+  <phrase title="bdapi_slash_threads_requires_forum_id" addon_id="bdApi" version_id="20" version_string="0.9.5"><![CDATA[/threads erfordert `forum_id`.]]></phrase>
+  <phrase title="bdapi_slash_tools_login_requires_redirect_uri" addon_id="bdApi" version_id="45" version_string="1.1.6"><![CDATA[/tools/login erfordert `redirect_uri`.]]></phrase>
+  <phrase title="bdapi_subscription_callback_is_required" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[`hub.callback` ist erforderlich.]]></phrase>
+  <phrase title="bdapi_subscription_callback_must_match" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[`hub.callback` muss zur Redirect-URL des Clients/der App passen.]]></phrase>
+  <phrase title="bdapi_subscription_cannot_verify_intent_of_subscriber" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Der "Intent" des Abonnenten kann nicht verifiziert werden.]]></phrase>
+  <phrase title="bdapi_subscription_confirm_deletion" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Bestätige das Löschen des Abonnements]]></phrase>
+  <phrase title="bdapi_subscription_delete" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Abonnement löschen]]></phrase>
+  <phrase title="bdapi_subscription_details" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Details des Abonnements]]></phrase>
+  <phrase title="bdapi_subscription_mode_must_valid" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[`hub.mode` muss entweder "subscribe" oder "unsubscribe" sein.]]></phrase>
+  <phrase title="bdapi_subscription_no_results" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Es wurde kein Abonnement gefunden...]]></phrase>
+  <phrase title="bdapi_subscription_not_found" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Das angeforderte Abonnement konnte nicht gefunden werden]]></phrase>
+  <phrase title="bdapi_subscription_please_confirm" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Bestätige das Löschen des folgenden Abonnements]]></phrase>
+  <phrase title="bdapi_subscription_topic_not_recognized" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[`hub.topic` wurde nicht erkannt.]]></phrase>
+  <phrase title="bdapi_subscriptions" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Abonnements]]></phrase>
+  <phrase title="bdapi_token_add" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Neues Token anlegen]]></phrase>
+  <phrase title="bdapi_token_confirm_deletion" addon_id="bdApi" version_id="4" version_string="0.9-dev"><![CDATA[Löschen des Tokens bestätigen]]></phrase>
+  <phrase title="bdapi_token_delete" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Token löschen]]></phrase>
+  <phrase title="bdapi_token_no_results" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Keine Token gefunden...]]></phrase>
+  <phrase title="bdapi_token_not_found" addon_id="bdApi" version_id="1" version_string="0.1"><![CDATA[Das angeforderte Token konnte nicht gefunden werden]]></phrase>
+  <phrase title="bdapi_token_please_confirm" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Bitte bestätige, dass du das folgende Token entfernen möchtest]]></phrase>
+  <phrase title="bdapi_tokens" addon_id="bdApi" version_id="4" version_string="0.9-dev"><![CDATA[API Zugriffs-Token]]></phrase>
+  <phrase title="bdapi_topic" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Thema]]></phrase>
+  <phrase title="bdapi_ttl" addon_id="bdApi" version_id="11" version_string="0.9-dev"><![CDATA[Gültig bis]]></phrase>
+  <phrase title="bdapi_update_scope" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Zugriffsrechte anpassen]]></phrase>
+  <phrase title="bdapi_update_scope_explain" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Hier kannst kannst du die Zugriffsrechte für {name} anpassen. Klicke {revoke} um die Zugriffsrechte komplett zu entziehen.]]></phrase>
+  <phrase title="bdapi_whitelisted_domains" addon_id="bdApi" version_id="59" version_string="1.3.3d"><![CDATA[Erlaubte Domains]]></phrase>
+  <phrase title="bdapi_whitelisted_domains_explain" addon_id="bdApi" version_id="59" version_string="1.3.3d"><![CDATA[Zusätzlich zur Weiterleitungs-URL ist eine Weiterleitung an diese Domains erlaubt. Jede Domain muss in einer neuen Zeile stehen. Wildcards sind erlaubt, z. B. "*.domain.com". Um eine Weiterleitung zu allen Domains zu erlauben kann "*" eingetragen werden, auch wenn es aus Sicherheitsgründen nicht empfohlen ist.]]></phrase>
+  <phrase title="bdapi_you_will_be_redirected_x" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Du wirst jetzt weitergeleitet zu <a href="{redirectUri}">{clientName}</a>.]]></phrase>
+  <phrase title="cron_entry_bdApi_cleanUpExpired" addon_id="bdApi" version_id="4" version_string="0.9-dev"><![CDATA[[bd] API: Abgelaufene Daten entfernen]]></phrase>
+  <phrase title="option_bdApi_authCodeTTL" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Authentication-Code Gültigkeitsdauer]]></phrase>
+  <phrase title="option_bdApi_authCodeTTL_explain" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Anzahl der Sekunden eingeben bis der Authentication-Code abläuft.]]></phrase>
+  <phrase title="option_bdApi_cors" addon_id="bdApi" version_id="60" version_string="1.4.0-BETA"><![CDATA[CORS aktivieren]]></phrase>
+  <phrase title="option_bdApi_cors_explain" addon_id="bdApi" version_id="60" version_string="1.4.0-BETA"><![CDATA[Cross-Origin Resource Sharing (CORS) ist eine Spezifikation die es ermöglicht, Zugriff auf Ressourcen über Domaingrenzen hinweg zu ermöglichen. Aktiviere diese Option um die CORS-Header in API-Antworten mitzusenden. Weitere Informationen zu CORS findest du <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS" target="_blank" tabindex="-1">hier</a>.]]></phrase>
+  <phrase title="option_bdApi_logRetentionDays" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Vorhaltung von Log-Files]]></phrase>
+  <phrase title="option_bdApi_logRetentionDays_explain" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Gib die Zahl der Tage ein, für die die API-Logs vorgehalten werden sollen. Gib 0 ein, wenn keine Logs vorgehalten werden sollen.]]></phrase>
+  <phrase title="option_bdApi_refreshTokenTTLDays" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Gültigkeitsdauer Refresh-Token]]></phrase>
+  <phrase title="option_bdApi_refreshTokenTTLDays_explain" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Gib die Zahl der Tage ein, die ein Refresh-Token gültig sein soll.]]></phrase>
+  <phrase title="option_bdApi_restrictAccess" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Zugriff einschränken]]></phrase>
+  <phrase title="option_bdApi_restrictAccess_explain" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Aktiviere diese Options umd den Zugriff auf die API zu unterbinden sofern keine Authentifizierung erfolgt ist. Gast-Zugriff ist weiterhin mit <a href="https://github.com/xfrocks/bdApi/blob/master/docs/api.markdown#one-time-token" target="_blank" tabindex="-1">One Time Token</a> möglich.]]></phrase>
+  <phrase title="option_bdApi_subscriptionThreadPost" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Abonnement für neuen Beitrag in einem Thema erlauben]]></phrase>
+  <phrase title="option_bdApi_subscriptionThreadPost_explain" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Aktiviere diese Option um Clients/Apps <a href="https://github.com/xfrocks/bdApi/blob/master/docs/api.markdown#subscriptions" target="_blank" tabindex="-1">Abonnements</a> für neue Beiträge in Themen zu erlauben.]]></phrase>
+  <phrase title="option_bdApi_subscriptionUser" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Abonnement für Benutzeränderungen erlauben]]></phrase>
+  <phrase title="option_bdApi_subscriptionUserNotification" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Abonnement für Benachrichtigungen erlauben]]></phrase>
+  <phrase title="option_bdApi_subscriptionUserNotification_explain" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Aktiviere diese Option um Clients/Apps <a href="https://github.com/xfrocks/bdApi/blob/master/docs/api.markdown#subscriptions" target="_blank" tabindex="-1">Abonnements</a> für Benachrichtigungen zu erlauben.]]></phrase>
+  <phrase title="option_bdApi_subscriptionUser_explain" addon_id="bdApi" version_id="53" version_string="1.3.1"><![CDATA[Aktiviere diese Option um Clients/Apps <a href="https://github.com/xfrocks/bdApi/blob/master/docs/api.markdown#subscriptions" target="_blank" tabindex="-1">Abonnements</a> für Benachrichtigungen zu erlauben.]]></phrase>
+  <phrase title="option_bdApi_tokenTTL" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Token-Gültigkeitsdauer]]></phrase>
+  <phrase title="option_bdApi_tokenTTL_explain" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[Gib die Anzahl Sekunden ein, bevor ein Authentication-Code ungültig wird.]]></phrase>
+  <phrase title="option_group_bdApi" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[[bd] API]]></phrase>
+  <phrase title="option_group_bdApi_description" addon_id="bdApi" version_id="50" version_string="1.2.1b"><![CDATA[]]></phrase>
+  <phrase title="permission_general_bdApi_clientNew" addon_id="bdApi" version_id="4" version_string="0.9-dev"><![CDATA[[bd] API: Client/App hinzufügen]]></phrase>
+</language>
