@@ -23,7 +23,7 @@
   <phrase title="bdapi_client_confirm_deletion" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Löschen des Clients bestätigen]]></phrase>
   <phrase title="bdapi_client_delete" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client löschen]]></phrase>
   <phrase title="bdapi_client_edit" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Client ändern]]></phrase>
-  <phrase title="bdapi_client_id_must_be_az09" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Keys müssen aus alphanumerischen Zeichen bestehen (auschließlich a-z, A-Z und 0-9).]]></phrase>
+  <phrase title="bdapi_client_id_must_be_az09" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Keys müssen aus alphanumerischen Zeichen bestehen (auschließlich Kleinbuchstaben a-z und 0-9).]]></phrase>
   <phrase title="bdapi_client_ids_must_be_unique" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Keys müssen eindeutig sein - dieser Key ist bereits in Benutzung.]]></phrase>
   <phrase title="bdapi_client_key" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[API-Key]]></phrase>
   <phrase title="bdapi_client_no_results" addon_id="bdApi" version_id="61" version_string="1.4.1-BETA"><![CDATA[Keine Clients gefunden.]]></phrase>
